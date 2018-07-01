@@ -1,0 +1,4 @@
+# Do not track the following files
+
+node_modules/
+.vscode/
